@@ -72,12 +72,12 @@ var slideIndex = 1;
                     <p class="first-p">Our Equilibrium collection promotes balance and calm</p>
                     <div class="icon">
                         <div class="first-icon">
-                            <img src="https://ahmednassar855.github.io/hosted-assets1/icon-ethereum.svg" alt=""
+                            <img src="" alt=""
                                 class="icon-ethereum">
                             <p>0.041ETH</p>
                         </div>
                         <div class="second-icon">
-                            <img src="https://ahmednassar855.github.io/hosted-assets1/icon-clock.svg" alt=""
+                            <img src="" alt=""
                                 class="icon-clock">
                             <p>3 days left</p>
                         </div>
